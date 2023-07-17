@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\大学文件\作业\C语言程序设计实践\学生成绩管理系统\源.cpp(358,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 60 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  学生成绩管理系统.vcxproj -> D:\大学文件\作业\C语言程序设计实践\学生成绩管理系统\x64\Release\学生成绩管理系统.exe

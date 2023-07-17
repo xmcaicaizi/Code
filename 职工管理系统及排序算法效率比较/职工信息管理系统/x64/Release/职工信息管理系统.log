@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\大学文件\作业\数据结构实验\课设\职工信息管理系统\paixu.h(240,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 158 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  职工信息管理系统.vcxproj -> D:\大学文件\作业\数据结构实验\课设\x64\Release\职工信息管理系统.exe
